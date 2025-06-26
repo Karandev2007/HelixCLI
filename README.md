@@ -1,5 +1,5 @@
 # HelixCLI
-HelixCLI is a CLI that helps you learn and explore how genes work :D
+HelixCLI is a Terminal tool that helps you learn and explore how genes work :D
 
 ## Features:
 - View Gene Info
