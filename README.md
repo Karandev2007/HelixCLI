@@ -5,7 +5,7 @@ Demo:
 
 https://github.com/user-attachments/assets/e0fb78b8-e853-446b-97ab-449ccc2683d4
 
-
+Package: https://pypi.org/project/helixgecli
 
 ## Features:
 - View Gene Info
